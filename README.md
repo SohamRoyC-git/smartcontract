@@ -6,8 +6,8 @@ This project enables users to **create polls**, **vote**, and **view real-time r
 ---
 
 
+<img width="1903" height="972" alt="Screenshot 2025-10-29 142435" src="https://github.com/user-attachments/assets/58e93349-0169-4821-9606-560e56de6f4a" />
 
-<img width="1372" height="800" alt="Screenshot 2025-10-27 111338" src="https://github.com/user-attachments/assets/e23a721e-4f12-4282-82fd-5cf14e89db9e" />
 
 
 
