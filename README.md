@@ -5,6 +5,13 @@ This project enables users to **create polls**, **vote**, and **view real-time r
 
 ---
 
+
+
+<img width="1372" height="800" alt="Screenshot 2025-10-27 111338" src="https://github.com/user-attachments/assets/e23a721e-4f12-4282-82fd-5cf14e89db9e" />
+
+
+
+
 ## 📘 Project Description
 
 The **Transparent On-Chain Polling System** is a beginner-friendly Solidity smart contract designed to demonstrate how decentralized polling works.  
